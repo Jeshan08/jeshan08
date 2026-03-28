@@ -5,21 +5,24 @@ I am a Software Engineering student and former Developer Consultant with a focus
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Current Focus)
 
 #### 🤖 [Enterprise RAG Chatbot](https://github.com/jeshan08/rag-enterprise-bot) (In Development)
 *Building a sophisticated Retrieval-Augmented Generation (RAG) system for business intelligence.*
 * **Stack:** Python, LangChain, OpenAI, Vector Databases (Pinecone/Chroma), FastAPI.
-* **Focus:** Reducing hallucinations in LLMs by grounding responses in private enterprise datasets using semantic search and vector embeddings.
+* **Focus:** Grounding LLM responses in private enterprise datasets using semantic search to eliminate hallucinations.
 
 #### 🎥 [LetsMeetAI - Meeting Scheduler](https://letsmeet-ai.vercel.app/)
 *Full-stack platform featuring real-time AI video assistants.*
 * **Stack:** Next.js, React, Node.js, PostgreSQL, OpenAI API.
 * **Innovation:** Architected an event-driven system to handle real-time scheduling logic and AI agent integration.
 
-#### 📦 [Network-PC Monitoring & Analytics](https://github.com/jeshan08/network-monitor)
-*A hardware health monitoring system focused on data integrity and system performance.*
-* **Stack:** Java, Socket Programming, SQL.
+---
+
+### 📂 Legacy & Foundation
+*Before transitioning to McMaster, I built a foundation in full-stack web development and systems monitoring. You can find my earlier contributions and academic projects here:*
+
+* 🛠️ **[Legacy Repository (jeshan26)](https://github.com/jeshan26)**: Contains 2+ years of work including a Bookstore Analytics App, hardware monitoring tools, and core Java/SQL projects from my Honors program.
 
 ---
 
@@ -37,8 +40,8 @@ I am a Software Engineering student and former Developer Consultant with a focus
 
 ### 📈 Professional Snapshot
 * **Experience:** Previously a Software Developer at **Jarvis Consulting Group** and Intern at **Intrascience**.
-* **Current Focus:** Advanced Retrieval-Augmented Generation (RAG) and Cloud Infrastructure (Azure).
 * **Education:** B.Tech in Software Engineering @ McMaster University | Honors Computer Programming @ Georgian College.
+* **Current Research:** Optimizing RAG pipelines for low-latency enterprise search.
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeshanchhabra) 
